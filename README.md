@@ -35,6 +35,4 @@ After installing all these softwares in your local machine/PC
 1. Import the libraries and forks the source code
 2. Set the path of datasets in jupyter notebook and proceed accordingly
 3. After running you seen various analysis along with accuracy, validation and loss calculation.
-# Contributing:
-Working on open source projects have lots of learning and fun. If anyone wants to contribute on this project or wants to add any exciting features or convert it into a android application are most welcome!!
 
